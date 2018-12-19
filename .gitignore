@@ -1,6 +1,7 @@
 
 ### Custom ###
 .idea/*
+config_secret*
 
 # Created by https://www.gitignore.io/api/git,python,pycharm,windows
 # Edit at https://www.gitignore.io/?templates=git,python,pycharm,windows
